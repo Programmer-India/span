@@ -1,0 +1,30 @@
+{
+  "name": "spanjs",
+  "version": "1.0.0",
+  "description": "Lighweight JS library for ease of access of developers.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Programmer-India/span.git"
+  },
+  "keywords": [
+    "JS",
+    "library",
+    "jQuery",
+    "alternative",
+    "lightweight",
+    "JS",
+    "span.js",
+    "spanjs",
+    "query"
+  ],
+  "author": "Programmer India",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Programmer-India/span/issues"
+  },
+  "homepage": "https://github.com/Programmer-India/span#readme"
+}
